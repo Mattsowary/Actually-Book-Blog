@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>The Mattsowary Stacks</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background-color: #014421; /* forest green */
+      color: #f5f5f5;
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem 3rem;
+    }
+
+    h1, h2 {
+      color: #7CFC00; /* bright green */
+      margin-bottom: 0.5rem;
+    }
+
+    p {
+      margin: 0.4rem 0;
+    }
+
+    ul {
+      margin: 0.4rem 0 1rem;
+      padding-left: 1.2rem;
+    }
+
+    .section {
+      margin-bottom: 2rem;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+      padding-bottom: 1.5rem;
+    }
+
+    .emoji-title {
+      font-size: 1.1rem;
+      font-weight: 600;
+      margin-bottom: 0.3rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <!-- Main blog intro -->
+    <section class="section">
+      <div class="emoji-title">🌲 The Mattsowary Stacks</div>
+      <h1>The Mattsowary Stacks</h1>
+      <p>
+        Welcome to The Mattsowary Stacks — a cosy corner of the internet where every book has a story,
+        and every story has a journey.
+      </p>
+      <p>
+        This blog follows the books discovered, rescued, adopted, or accidentally‑purchased‑in‑airport‑chaos
+        by Mattsowary while travelling the world. From thrift shop treasures in tiny towns to unexpected finds
+        in bustling cities, each post shares the adventure behind the book and why it earned a place on the stack.
+      </p>
+    </section>
+
+    <!-- About the author -->
+    <section class="section">
+      <div class="emoji-title">🧍‍♂️ About the Author</div>
+      <h2>About the Author</h2>
+      <p>
+        Hi, I’m Matt — also known as Mattsowary.
+      </p>
+      <p>
+        I travel, I collect, and I read (sometimes in that order). Wherever I go, I pick up a book to remember
+        the place, the moment, or the chaos that led me there. Over time, this turned into a growing, slightly
+        unhinged, very sentimental library of stories from around the world.
+      </p>
+      <p>
+        This blog is my way of sharing those finds — the books, the memories, and the journey behind each one.
+      </p>
+    </section>
+
+    <!-- Schnauzer update -->
+    <section class="section">
+      <div class="emoji-title">🐾 Schnauzer Update</div>
+      <h2>Schnauzer Update</h2>
+      <p>
+        Welcome to the Schnauzer Update, the official news desk of the miniature schnauzer who supervises all
+        book‑collecting activities.
+      </p>
+      <p>Expect occasional updates on:</p>
+      <ul>
+        <li>naps</li>
+        <li>opinions on book covers</li>
+        <li>travel adventures</li>
+        <li>general schnauzer‑related chaos</li>
+      </ul>
+      <p>
+        If a book makes it into the Stacks, it’s because the schnauzer approved it.
+      </p>
+    </section>
+
+    <!-- Contact -->
+    <section class="section">
+      <div class="emoji-title">✉️ Get in Contact</div>
+      <h2>Get in Contact</h2>
+      <p>
+        Got a book recommendation, a travel tip, or a schnauzer meme to share?
+      </p>
+      <p>
+        Reach out anytime — I love hearing from fellow readers, travellers, and collectors.
+      </p>
+      <p>You can contact me through:</p>
+      <ul>
+        <li>Email</li>
+        <li>Social links</li>
+      </ul>
+    </section>
+  </div>
+</body>
+</html>
